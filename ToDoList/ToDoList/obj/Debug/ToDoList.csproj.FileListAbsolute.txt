@@ -1,0 +1,11 @@
+\\sc-op-file-1\Users-op\Students\ZTian\My Documents\vs2025\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+\\sc-op-file-1\Users-op\Students\ZTian\My Documents\vs2025\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+\\sc-op-file-1\Users-op\Students\ZTian\My Documents\vs2025\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+\\sc-op-file-1\Users-op\Students\ZTian\My Documents\vs2025\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+\\sc-op-file-1\Users-op\Students\ZTian\My Documents\vs2025\ToDoList\ToDoList\obj\Debug\ToDoList.Form1.resources
+\\sc-op-file-1\Users-op\Students\ZTian\My Documents\vs2025\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+\\sc-op-file-1\Users-op\Students\ZTian\My Documents\vs2025\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+\\sc-op-file-1\Users-op\Students\ZTian\My Documents\vs2025\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+\\sc-op-file-1\Users-op\Students\ZTian\My Documents\vs2025\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+\\sc-op-file-1\Users-op\Students\ZTian\My Documents\vs2025\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+\\sc-op-file-1\Users-op\Students\ZTian\My Documents\vs2025\ToDoList\ToDoList\obj\Debug\ToDoList.Form2.resources
