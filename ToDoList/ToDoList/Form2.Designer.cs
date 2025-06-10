@@ -1,4 +1,6 @@
-﻿namespace ToDoList
+﻿using System;
+
+namespace ToDoList
 {
     partial class Form2
     {
@@ -126,11 +128,11 @@
             // 
             this.date.ImeMode = System.Windows.Forms.ImeMode.On;
             this.date.Location = new System.Drawing.Point(142, 83);
-            this.date.MinDate = new System.DateTime(2025, 6, 6, 13, 32, 12, 0);
+            this.date.MinDate = DateTime.Now;
             this.date.Name = "date";
             this.date.Size = new System.Drawing.Size(323, 26);
             this.date.TabIndex = 11;
-            this.date.Value = new System.DateTime(2025, 6, 6, 13, 32, 12, 0);
+            this.date.Value = DateTime.Now;
             this.date.ValueChanged += new System.EventHandler(this.date_ValueChanged);
             // 
             // gpb_data
