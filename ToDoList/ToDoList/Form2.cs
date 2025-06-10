@@ -20,7 +20,7 @@ namespace ToDoList
         public Form2()
         {
             InitializeComponent();
-            
+            date.MinDate = DateTime.Now;
         }
         public void IncrementProgressBar()  //For Radio Buttons
         {
