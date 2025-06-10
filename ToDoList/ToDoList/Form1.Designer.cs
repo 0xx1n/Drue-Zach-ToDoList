@@ -171,7 +171,7 @@
             this.mnu_clear.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.clear_checked});
             this.mnu_clear.Name = "mnu_clear";
-            this.mnu_clear.Size = new System.Drawing.Size(136, 26);
+            this.mnu_clear.Size = new System.Drawing.Size(180, 26);
             this.mnu_clear.Text = "Clear all";
             this.mnu_clear.Click += new System.EventHandler(this.mnu_clear_Click);
             // 
@@ -185,7 +185,7 @@
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(136, 26);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 26);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.mnu_exit_Click);
             // 
@@ -204,7 +204,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(783, 386);
+            this.pictureBox1.Location = new System.Drawing.Point(783, 380);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(84, 76);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -220,7 +220,7 @@
             "Mid",
             "High",
             "All"});
-            this.cbx_priority.Location = new System.Drawing.Point(730, 107);
+            this.cbx_priority.Location = new System.Drawing.Point(730, 119);
             this.cbx_priority.Name = "cbx_priority";
             this.cbx_priority.Size = new System.Drawing.Size(176, 32);
             this.cbx_priority.TabIndex = 18;
@@ -231,7 +231,7 @@
             // 
             this.lbl_filter.AutoSize = true;
             this.lbl_filter.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_filter.Location = new System.Drawing.Point(726, 52);
+            this.lbl_filter.Location = new System.Drawing.Point(726, 61);
             this.lbl_filter.Name = "lbl_filter";
             this.lbl_filter.Size = new System.Drawing.Size(180, 20);
             this.lbl_filter.TabIndex = 19;
